@@ -1,4 +1,4 @@
-# Vikas dhakad
+# Vikas Dhakad
 # Retail Sales Analysis SQL Project
 
 ## Project Overview
